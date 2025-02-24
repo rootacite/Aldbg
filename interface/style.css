@@ -1,0 +1,20 @@
+/* 设置窗口的背景颜色 */
+
+/* 设置标签的字体样式 */
+label {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+headerbar.cont {
+    background-color: #66CC00;
+}
+
+headerbar.trap {
+    background-color: #CC6600;
+}
+
+label.highlight {
+    color: #CC6600;
+    font-weight: bold;
+}
